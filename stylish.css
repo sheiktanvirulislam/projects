@@ -1,0 +1,34 @@
+body{
+    font-family: 'Heebo', sans-serif;
+
+}
+
+h1{
+    font-size: 40px;
+    
+
+}
+.specialobj{
+
+    color:red;
+}
+
+.military-activity{
+    width: 30%;
+    padding: 5%;
+    margin: 5%;
+    float: left;
+
+
+}
+.military-activity img{
+   width:100%;
+  
+
+
+}
+
+
+
+
+
